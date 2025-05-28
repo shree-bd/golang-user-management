@@ -38,8 +38,8 @@ Before running this application, make sure you have:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/go-mongodb-api.git
-cd go-mongodb-api
+git clone https://github.com/shree-bd/golang-user-management.git
+cd golang-user-management
 ```
 
 ### 2. Install Dependencies
